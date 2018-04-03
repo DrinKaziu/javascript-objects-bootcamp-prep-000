@@ -14,7 +14,7 @@ function removeFromPlaylist (obj, key) {
   return obj;
 }
 
-updatePlaylist(playlist, 'My Bloody Valentine', 'Sometimes' );
 
-console.log(playlist);
+
+
 
