@@ -14,6 +14,7 @@ function removeFromPlaylist (obj, key) {
   delete playlist["My Bloody Valentine"];
   delete playlist['Phil Ochs'];
   delete playlist["Dave Matthews"];
+  delete playlist["Slowdive"];
   return obj;
 }
 
