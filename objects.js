@@ -8,8 +8,6 @@ function updatePlaylist (obj, key, value) {
    return obj;
 }
 
-updatePlaylist(playlist, 'My Bloody Valentine', 'Sometimes' );
-
 function removeFromPlaylist (obj, key) {
   delete playlist["My Bloody Valentine"];
   delete playlist['Phil Ochs'];
