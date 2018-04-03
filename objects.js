@@ -15,3 +15,6 @@ function removeFromPlaylist (obj, key) {
 }
 
 updatePlaylist(playlist, 'My Bloody Valentine', 'Sometimes' );
+
+console.log(playlist);
+
