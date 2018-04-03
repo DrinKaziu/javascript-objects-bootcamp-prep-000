@@ -7,3 +7,9 @@ function updatePlaylist (obj, key, value) {
    
    return obj;
 }
+
+function removeFromPlaylist (obj, key) {
+  delete playlist["Phil Ochs"];
+  
+  return obj;
+}
