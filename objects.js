@@ -1,5 +1,6 @@
 var playlist = {
-  "Dave Matthews": "Say Goodbye"
+  'Slowdive': 'Alison',
+  'My Bloody Valentine': 'Sometimes'
 };
 
 function updatePlaylist (obj, key, value) {
