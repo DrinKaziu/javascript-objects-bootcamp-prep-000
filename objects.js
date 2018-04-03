@@ -12,7 +12,7 @@ updatePlaylist(playlist, 'My Bloody Valentine', 'Sometimes' );
 
 function removeFromPlaylist (obj, key) {
   delete playlist["My Bloody Valentine"];
-  
+  delete playlist['Phil Ochs'];
   return obj;
 }
 
