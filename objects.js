@@ -3,7 +3,7 @@ var playlist = {
 };
 
 function updatePlaylist (obj, key, value) {
-   playlist['Jack Johnson'] = "Banana Pancakes";
+   playlist['Phil Ochs'] = "Banana Pancakes";
    
    return obj;
 }
