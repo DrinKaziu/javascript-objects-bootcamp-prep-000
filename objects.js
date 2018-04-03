@@ -9,7 +9,7 @@ function updatePlaylist (obj, key, value) {
 }
 
 function removeFromPlaylist (obj, key) {
-  delete playlist["Phil Ochs"];
+  delete playlist["Dave Matthews"];
   
   return obj;
 }
