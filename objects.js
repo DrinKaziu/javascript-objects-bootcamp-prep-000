@@ -10,7 +10,9 @@ function updatePlaylist (obj, key, value) {
 }
 
 function removeFromPlaylist (obj, key) {
-  delete playlist[]
+  delete playlist["Slowdive"];
+  
+  return obj;
 }
 
 
